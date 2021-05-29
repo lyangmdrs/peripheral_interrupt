@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/lyangmdrs/peripheral_interrupt_exercise/develop/Img/header.png?token=ADIW7OWNI4AYXAVKGCOPQ2DAGUNFA)
 ***
-# Peripheral Interrupt 
+# Peripheral Interruption
 
 The goal of this exercise is to pend a USART3 interrupt and the implement the **Interrupt Service Routine** (**ISR**).
 
